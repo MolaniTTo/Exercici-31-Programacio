@@ -1,0 +1,43 @@
+
+a)
+Classes d'equivalència
+Es defineixen 3 classes d'equivalència, on es determina a cadascuna si els seus valors són vàlids o invàlids:
+
+Valors vàlids: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Valors invàlids: ..., -02, -01, 00
+Valors invàlids: 13, 14, 15, ...
+Valors límit
+Límit Inferior - 1 => Entrada: 1. Resultat esperat: "True".
+
+Límit Superior - 10 => Entrada: 10. Resultat esperat: "True".
+
+Valor Invàlid Inferior - 0 => Entrada: 0. Resultat esperat: "False".
+
+Valor Invàlid Superior - 11 => Entrada: 11. Resultat esperat: "False".
+
+b)
+Classes d'equivalència
+Es defineixen 3 classes d'equivalència, on es determina a cadascuna si els seus valors són vàlids o invàlids:
+
+Valors vàlids: (1 - 500)
+Valors invàlids: ..., -02, -01, 00
+Valors límit
+Límit Inferior - 1 => Entrada: 1. Resultat esperat: "True".
+
+Límit Superior - 500 => Entrada: 12. Resultat esperat: "True".
+
+Valor Invàlid Inferior - 0 => Entrada: 0. Resultat esperat: "Valor invàlid".
+
+Valor Invàlid Superior - 550 => Entrada: 13. Resultat esperat: "Valor invàlid".
+
+c)
+Classes d'equivalència
+Es defineixen 3 classes d'equivalència, on es determina a cadascuna si els seus valors són vàlids o invàlids:
+
+Valors vàlids: (1 - 100)
+Valors invàlids: ..., -02, -01, 00
+Límit Inferior - 1 => Entrada: 1. Resultat esperat: "True".
+
+Límit Superior - 100 => Entrada: 12. Resultat esperat: "True".
+
+Valor Invàlid Inferior - 0 => Entrada: 0. Resultat esperat: "Valor invàlid".
